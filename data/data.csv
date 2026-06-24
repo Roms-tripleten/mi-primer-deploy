@@ -1,0 +1,151 @@
+ID_Transaccion,Fecha_Venta,Producto,Variedad,Gramos_Vendidos,Precio_Por_Gramo,Total_Venta,Cliente_Frecuente,Envio_A_Domicilio
+1,2026-01-05,Dulce Enchilado,Gomitas de Mango,250,0.12,30.00,TRUE,FALSE
+2,2026-01-05,Fruto Seco,Almendras Tostadas,500,0.25,125.00,FALSE,TRUE
+3,2026-01-06,Dulce Enchilado,Tamarindo con Chile,100,0.15,15.00,TRUE,FALSE
+4,2026-01-06,Fruto Seco,Nuez de la India,300,0.35,105.00,FALSE,FALSE
+5,2026-01-07,Dulce Enchilado,Cacahuates Japoneses,400,0.08,32.00,TRUE,TRUE
+6,2026-01-07,Fruto Seco,Pistaches Salados,200,0.30,60.00,FALSE,FALSE
+7,2026-01-08,Dulce Enchilado,Piña Deshidratada con Chile,150,0.18,27.00,TRUE,FALSE
+8,2026-01-08,Fruto Seco,Arándanos Secos,600,0.14,84.00,TRUE,TRUE
+9,2026-01-09,Dulce Enchilado,Gomitas de Mango,350,0.12,42.00,FALSE,FALSE
+10,2026-01-09,Fruto Seco,Almendras Tostadas,150,0.25,37.50,TRUE,FALSE
+11,2026-01-10,Dulce Enchilado,Tamarindo con Chile,500,0.15,75.00,FALSE,TRUE
+12,2026-01-10,Fruto Seco,Nuez de la India,200,0.35,70.00,TRUE,FALSE
+13,2026-01-11,Dulce Enchilado,Cacahuates Japoneses,750,0.08,60.00,FALSE,TRUE
+14,2026-01-11,Fruto Seco,Pistaches Salados,450,0.30,135.00,TRUE,TRUE
+15,2026-01-12,Dulce Enchilado,Piña Deshidratada con Chile,300,0.18,54.00,FALSE,FALSE
+16,2026-01-12,Fruto Seco,Arándanos Secos,250,0.14,35.00,FALSE,FALSE
+17,2026-01-13,Dulce Enchilado,Skwinkles Caseros,180,0.16,28.80,TRUE,FALSE
+18,2026-01-13,Fruto Seco,Mix de Nueces,500,0.28,140.00,FALSE,TRUE
+19,2026-01-14,Dulce Enchilado,Manzana con Chamoy,400,0.15,60.00,TRUE,TRUE
+20,2026-01-14,Fruto Seco,Pepitas de Calabaza,300,0.10,30.00,FALSE,FALSE
+21,2026-01-15,Dulce Enchilado,Gomitas de Mango,100,0.12,12.00,TRUE,FALSE
+22,2026-01-15,Fruto Seco,Almendras Tostadas,400,0.25,100.00,TRUE,TRUE
+23,2026-01-16,Dulce Enchilado,Tamarindo con Chile,250,0.15,37.50,FALSE,FALSE
+24,2026-01-16,Fruto Seco,Nuez de la India,600,0.35,210.00,TRUE,TRUE
+25,2026-01-17,Dulce Enchilado,Cacahuates Japoneses,200,0.08,16.00,FALSE,FALSE
+26,2026-01-17,Fruto Seco,Pistaches Salados,350,0.30,105.00,TRUE,FALSE
+27,2026-01-18,Dulce Enchilado,Piña Deshidratada con Chile,500,0.18,90.00,FALSE,TRUE
+28,2026-01-18,Fruto Seco,Arándanos Secos,150,0.14,21.00,TRUE,FALSE
+29,2026-01-19,Dulce Enchilado,Skwinkles Caseros,300,0.16,48.00,FALSE,FALSE
+30,2026-01-19,Fruto Seco,Mix de Nueces,250,0.28,70.00,TRUE,FALSE
+31,2026-01-20,Dulce Enchilado,Manzana con Chamoy,150,0.15,22.50,FALSE,FALSE
+32,2026-01-20,Fruto Seco,Pepitas de Calabaza,500,0.10,50.00,TRUE,TRUE
+33,2026-01-21,Dulce Enchilado,Gomitas de Mango,600,0.12,72.00,FALSE,TRUE
+34,2026-01-21,Fruto Seco,Almendras Tostadas,300,0.25,75.00,TRUE,FALSE
+35,2026-01-22,Dulce Enchilado,Tamarindo con Chile,350,0.15,52.50,FALSE,FALSE
+36,2026-01-22,Fruto Seco,Nuez de la India,150,0.35,52.50,TRUE,FALSE
+37,2026-01-23,Dulce Enchilado,Cacahuates Japoneses,800,0.08,64.00,TRUE,TRUE
+38,2026-01-23,Fruto Seco,Pistaches Salados,250,0.30,75.00,FALSE,FALSE
+39,2026-01-24,Dulce Enchilado,Piña Deshidratada con Chile,400,0.18,72.00,TRUE,TRUE
+40,2026-01-24,Fruto Seco,Arándanos Secos,450,0.14,63.00,FALSE,TRUE
+41,2026-01-25,Dulce Enchilado,Skwinkles Caseros,500,0.16,80.00,TRUE,FALSE
+42,2026-01-25,Fruto Seco,Mix de Nueces,150,0.28,42.00,FALSE,FALSE
+43,2026-01-26,Dulce Enchilado,Manzana con Chamoy,200,0.15,30.00,TRUE,FALSE
+44,2026-01-26,Fruto Seco,Pepitas de Calabaza,400,0.10,40.00,FALSE,TRUE
+45,2026-01-27,Dulce Enchilado,Gomitas de Mango,450,0.12,54.00,TRUE,TRUE
+46,2026-01-27,Fruto Seco,Almendras Tostadas,200,0.25,50.00,FALSE,FALSE
+47,2026-01-28,Dulce Enchilado,Tamarindo con Chile,150,0.15,22.50,TRUE,FALSE
+48,2026-01-28,Fruto Seco,Nuez de la India,500,0.35,175.00,FALSE,TRUE
+49,2026-01-29,Dulce Enchilado,Cacahuates Japoneses,300,0.08,24.00,TRUE,FALSE
+50,2026-01-29,Fruto Seco,Pistaches Salados,600,0.30,180.00,FALSE,TRUE
+51,2026-01-30,Dulce Enchilado,Piña Deshidratada con Chile,250,0.18,45.00,TRUE,FALSE
+52,2026-01-30,Fruto Seco,Arándanos Secos,300,0.14,42.00,FALSE,FALSE
+53,2026-01-31,Dulce Enchilado,Skwinkles Caseros,400,0.16,64.00,TRUE,TRUE
+54,2026-01-31,Fruto Seco,Mix de Nueces,350,0.28,98.00,FALSE,FALSE
+55,2026-02-01,Dulce Enchilado,Manzana con Chamoy,600,0.15,90.00,TRUE,TRUE
+56,2026-02-01,Fruto Seco,Pepitas de Calabaza,250,0.10,25.00,FALSE,FALSE
+57,2026-02-02,Dulce Enchilado,Gomitas de Mango,500,0.12,60.00,TRUE,TRUE
+58,2026-02-02,Fruto Seco,Almendras Tostadas,350,0.25,87.50,FALSE,FALSE
+59,2026-02-03,Dulce Enchilado,Tamarindo con Chile,400,0.15,60.00,TRUE,FALSE
+60,2026-02-03,Fruto Seco,Nuez de la India,250,0.35,87.50,FALSE,TRUE
+61,2026-02-04,Dulce Enchilado,Cacahuates Japoneses,500,0.08,40.00,TRUE,FALSE
+62,2026-02-04,Fruto Seco,Pistaches Salados,150,0.30,45.00,FALSE,FALSE
+63,2026-02-05,Dulce Enchilado,Piña Deshidratada con Chile,350,0.18,63.00,TRUE,TRUE
+64,2026-02-05,Fruto Seco,Arándanos Secos,500,0.14,70.00,FALSE,TRUE
+65,2026-02-06,Dulce Enchilado,Skwinkles Caseros,250,0.16,40.00,TRUE,FALSE
+66,2026-02-06,Fruto Seco,Mix de Nueces,450,0.28,126.00,FALSE,TRUE
+67,2026-02-07,Dulce Enchilado,Manzana con Chamoy,300,0.15,45.00,TRUE,FALSE
+68,2026-02-07,Fruto Seco,Pepitas de Calabaza,150,0.10,15.00,FALSE,FALSE
+69,2026-02-08,Dulce Enchilado,Gomitas de Mango,180,0.12,21.60,TRUE,FALSE
+70,2026-02-08,Fruto Seco,Almendras Tostadas,600,0.25,150.00,FALSE,TRUE
+71,2026-02-09,Dulce Enchilado,Tamarindo con Chile,300,0.15,45.00,TRUE,FALSE
+72,2026-02-09,Fruto Seco,Nuez de la India,400,0.35,140.00,FALSE,TRUE
+73,2026-02-10,Dulce Enchilado,Cacahuates Japoneses,600,0.08,48.00,TRUE,TRUE
+74,2026-02-10,Fruto Seco,Pistaches Salados,300,0.30,90.00,FALSE,FALSE
+75,2026-02-11,Dulce Enchilado,Piña Deshidratada con Chile,100,0.18,18.00,TRUE,FALSE
+76,2026-02-11,Fruto Seco,Arándanos Secos,400,0.14,56.00,FALSE,FALSE
+77,2026-02-12,Dulce Enchilado,Skwinkles Caseros,350,0.16,56.00,TRUE,TRUE
+78,2026-02-12,Fruto Seco,Mix de Nueces,200,0.28,56.00,FALSE,FALSE
+79,2026-02-13,Dulce Enchilado,Manzana con Chamoy,250,0.15,37.50,TRUE,FALSE
+80,2026-02-13,Fruto Seco,Pepitas de Calabaza,600,0.10,60.00,FALSE,TRUE
+81,2026-02-14,Dulce Enchilado,Gomitas de Mango,750,0.12,90.00,TRUE,TRUE
+82,2026-02-14,Fruto Seco,Almendras Tostadas,250,0.25,62.50,FALSE,FALSE
+83,2026-02-15,Dulce Enchilado,Tamarindo con Chile,450,0.15,67.50,TRUE,TRUE
+84,2026-02-15,Fruto Seco,Nuez de la India,350,0.35,122.50,FALSE,FALSE
+85,2026-02-16,Dulce Enchilado,Cacahuates Japoneses,250,0.08,20.00,TRUE,FALSE
+86,2026-02-16,Fruto Seco,Pistaches Salados,500,0.30,150.00,FALSE,TRUE
+87,2026-02-17,Dulce Enchilado,Piña Deshidratada con Chile,600,0.18,108.00,TRUE,TRUE
+88,2026-02-17,Fruto Seco,Arándanos Secos,200,0.14,28.00,FALSE,FALSE
+89,2026-02-18,Dulce Enchilado,Skwinkles Caseros,150,0.16,24.00,TRUE,FALSE
+90,2026-02-18,Fruto Seco,Mix de Nueces,600,0.28,168.00,FALSE,TRUE
+91,2026-02-19,Dulce Enchilado,Manzana con Chamoy,350,0.15,52.50,TRUE,FALSE
+92,2026-02-19,Fruto Seco,Pepitas de Calabaza,350,0.10,35.00,FALSE,FALSE
+93,2026-02-20,Dulce Enchilado,Gomitas de Mango,400,0.12,48.00,TRUE,TRUE
+94,2026-02-20,Fruto Seco,Almendras Tostadas,180,0.25,45.00,FALSE,FALSE
+95,2026-02-21,Dulce Enchilado,Tamarindo con Chile,200,0.15,30.00,TRUE,FALSE
+96,2026-02-21,Fruto Seco,Nuez de la India,450,0.35,157.50,FALSE,TRUE
+97,2026-02-22,Dulce Enchilado,Cacahuates Japoneses,350,0.08,28.00,TRUE,FALSE
+98,2026-02-22,Fruto Seco,Pistaches Salados,400,0.30,120.00,FALSE,TRUE
+99,2026-02-23,Dulce Enchilado,Piña Deshidratada con Chile,450,0.18,81.00,TRUE,TRUE
+100,2026-02-23,Fruto Seco,Arándanos Secos,350,0.14,49.00,FALSE,FALSE
+101,2026-02-24,Dulce Enchilado,Skwinkles Caseros,500,0.16,80.00,TRUE,TRUE
+102,2026-02-24,Fruto Seco,Mix de Nueces,300,0.28,84.00,FALSE,FALSE
+103,2026-02-25,Dulce Enchilado,Manzana con Chamoy,500,0.15,75.00,TRUE,TRUE
+104,2026-02-25,Fruto Seco,Pepitas de Calabaza,450,0.10,45.00,FALSE,TRUE
+105,2026-02-26,Dulce Enchilado,Gomitas de Mango,300,0.12,36.00,TRUE,FALSE
+106,2026-02-26,Fruto Seco,Almendras Tostadas,550,0.25,137.50,FALSE,TRUE
+107,2026-02-27,Dulce Enchilado,Tamarindo con Chile,600,0.15,90.00,TRUE,TRUE
+108,2026-02-27,Fruto Seco,Nuez de la India,250,0.35,87.50,FALSE,FALSE
+109,2026-02-28,Dulce Enchilado,Cacahuates Japoneses,450,0.08,36.00,TRUE,FALSE
+110,2026-02-28,Fruto Seco,Pistaches Salados,350,0.30,105.00,FALSE,TRUE
+111,2026-03-01,Dulce Enchilado,Piña Deshidratada con Chile,200,0.18,36.00,TRUE,FALSE
+112,2026-03-01,Fruto Seco,Arándanos Secos,550,0.14,77.00,FALSE,TRUE
+113,2026-03-02,Dulce Enchilado,Skwinkles Caseros,250,0.16,40.00,TRUE,FALSE
+114,2026-03-02,Fruto Seco,Mix de Nueces,400,0.28,112.00,FALSE,TRUE
+115,2026-03-03,Dulce Enchilado,Manzana con Chamoy,180,0.15,27.00,TRUE,FALSE
+116,2026-03-03,Fruto Seco,Pepitas de Calabaza,550,0.10,55.00,FALSE,TRUE
+117,2026-03-04,Dulce Enchilado,Gomitas de Mango,350,0.12,42.00,TRUE,FALSE
+118,2026-03-04,Fruto Seco,Almendras Tostadas,300,0.25,75.00,FALSE,FALSE
+119,2026-03-05,Dulce Enchilado,Tamarindo con Chile,100,0.15,15.00,TRUE,FALSE
+120,2026-03-05,Fruto Seco,Nuez de la India,600,0.35,210.00,FALSE,TRUE
+121,2026-03-06,Dulce Enchilado,Cacahuates Japoneses,700,0.08,56.00,TRUE,TRUE
+122,2026-03-06,Fruto Seco,Pistaches Salados,200,0.30,60.00,FALSE,FALSE
+123,2026-03-07,Dulce Enchilado,Piña Deshidratada con Chile,300,0.18,54.00,TRUE,FALSE
+124,2026-03-07,Fruto Seco,Arándanos Secos,450,0.14,63.00,FALSE,TRUE
+125,2026-03-08,Dulce Enchilado,Skwinkles Caseros,600,0.16,96.00,TRUE,TRUE
+126,2026-03-08,Fruto Seco,Mix de Nueces,250,0.28,70.00,FALSE,FALSE
+127,2026-03-09,Dulce Enchilado,Manzana con Chamoy,450,0.15,67.50,TRUE,TRUE
+128,2026-03-09,Fruto Seco,Pepitas de Calabaza,200,0.10,20.00,FALSE,FALSE
+129,2026-03-10,Dulce Enchilado,Gomitas de Mango,500,0.12,60.00,TRUE,TRUE
+130,2026-03-10,Fruto Seco,Almendras Tostadas,450,0.25,112.50,FALSE,TRUE
+131,2026-03-11,Dulce Enchilado,Tamarindo con Chile,350,0.15,52.50,TRUE,FALSE
+132,2026-03-11,Fruto Seco,Nuez de la India,300,0.35,105.00,FALSE,FALSE
+133,2026-03-12,Dulce Enchilado,Cacahuates Japoneses,550,0.08,44.00,TRUE,TRUE
+134,2026-03-12,Fruto Seco,Pistaches Salados,450,0.30,135.00,FALSE,TRUE
+135,2026-03-13,Dulce Enchilado,Piña Deshidratada con Chile,400,0.18,72.00,TRUE,FALSE
+136,2026-03-13,Fruto Seco,Arándanos Secos,250,0.14,35.00,FALSE,FALSE
+137,2026-03-14,Dulce Enchilado,Skwinkles Caseros,300,0.16,48.00,TRUE,FALSE
+138,2026-03-14,Fruto Seco,Mix de Nueces,550,0.28,154.00,FALSE,TRUE
+139,2026-03-15,Dulce Enchilado,Manzana con Chamoy,250,0.15,37.50,TRUE,FALSE
+140,2026-03-15,Fruto Seco,Pepitas de Calabaza,400,0.10,40.00,FALSE,TRUE
+141,2026-03-16,Dulce Enchilado,Gomitas de Mango,200,0.12,24.00,TRUE,FALSE
+142,2026-03-16,Fruto Seco,Almendras Tostadas,400,0.25,100.00,FALSE,TRUE
+143,2026-03-17,Dulce Enchilado,Tamarindo con Chile,500,0.15,75.00,TRUE,TRUE
+144,2026-03-17,Fruto Seco,Nuez de la India,200,0.35,70.00,FALSE,FALSE
+145,2026-03-18,Dulce Enchilado,Cacahuates Japoneses,350,0.08,28.00,TRUE,FALSE
+146,2026-03-18,Fruto Seco,Pistaches Salados,600,0.30,180.00,FALSE,TRUE
+147,2026-03-19,Dulce Enchilado,Piña Deshidratada con Chile,150,0.18,27.00,TRUE,FALSE
+148,2026-03-19,Fruto Seco,Arándanos Secos,600,0.14,84.00,FALSE,TRUE
+149,2026-03-20,Dulce Enchilado,Skwinkles Caseros,450,0.16,72.00,TRUE,TRUE
+150,2026-03-20,Fruto Seco,Mix de Nueces,300,0.28,84.00,FALSE,FALSE
